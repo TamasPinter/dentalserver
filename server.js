@@ -29,12 +29,17 @@ const availableTimes = {
     "11:00 AM",
     "2:00 PM",
     "4:00 PM",
+    "5:00 PM",
+    "7:00 PM",
   ],
   "Tue Nov 07 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
     "10:00 AM",
     "11:00 AM",
     "3:00 PM",
+    "4:00 PM",
+    "6:00 PM",
+    "7:00 PM",
   ],
   "Wed Nov 08 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
@@ -58,11 +63,7 @@ const availableTimes = {
     "4:00 PM",
   ],
   "Sat Nov 11 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
-    "9:00 AM",
-    "10:00 AM",
-    "1:00 PM",
-    "3:00 PM",
-    "4:00 PM",
+    "Our office is closed today",
   ],
   "Sun Nov 12 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "Our office is closed today",
@@ -73,6 +74,8 @@ const availableTimes = {
     "1:00 PM",
     "3:00 PM",
     "4:00 PM",
+    "5:00 PM",
+    "7:00 PM",
   ],
   "Tue Nov 14 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "9:00 AM",
@@ -80,10 +83,11 @@ const availableTimes = {
     "11:00 AM",
     "2:00 PM",
     "3:00 PM",
-    "4:00 PM",
+    "6:00 PM",
+    "7:00 PM",
   ],
   "Wed Nov 15 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
-    "9:00 AM",
+    "8:00 AM",
     "11:00 AM",
     "1:00 PM",
     "2:00 PM",
@@ -107,12 +111,7 @@ const availableTimes = {
     "4:00 PM",
   ],
   "Sat Nov 18 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
-    "9:00 AM",
-    "11:00 AM",
-    "1:00 PM",
-    "2:00 PM",
-    "3:00 PM",
-    "4:00 PM",
+    "Our office is closed today",
   ],
   "Sun Nov 19 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
     "Our office is closed today",
@@ -124,6 +123,26 @@ const availableTimes = {
     "2:00 PM",
     "3:00 PM",
     "4:00 PM",
+  ],
+  "Tue Nov 21 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
+    "9:00 AM",
+    "10:00 AM",
+    "1:00 PM",
+    "2:00 PM",
+    "3:00 PM",
+    "4:00 PM",
+  ],
+  "Wed Nov 22 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
+    "8:00 AM",
+    "11:00 AM",
+    "1:00 PM",
+    "2:00 PM",
+    "3:00 PM",
+  ],
+  "Thu Nov 23 2023 00:00:00 GMT-0500 (Eastern Standard Time)": [
+    "9:00 AM",
+    "10:00 AM",
+    "1:00 PM",
   ],
 };
 
